@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm [Your Name]
-
+Hi there 👋, I'm Raihan
 🎓 B.Tech CSBS student at Christ College of Engineering, Irinjalakuda  
 💻 Passionate about programming, web development, and problem solving  
 🌱 Currently learning Data Structures, Java, and Full Stack Development  
