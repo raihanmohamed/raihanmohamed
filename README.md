@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently studying in Christ college of engineering<br>
+Hi there 👋, I'm [Your Name]
+
+🎓 B.Tech CSBS student at Christ College of Engineering, Irinjalakuda  
+💻 Passionate about programming, web development, and problem solving  
+🌱 Currently learning Data Structures, Java, and Full Stack Development  
+🚀 Interested in building real-world projects and improving my coding skills <br>
 
 
 ## 🌐 Socials:
